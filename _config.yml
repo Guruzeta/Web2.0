@@ -14,8 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Stochastic Thoughts On Life
-email: your-email@example.com
+email: gurukalyan1.618@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
+<<<<<<< HEAD
 Just random startings. Hey there! It seems that you have landed upon this zone.
 Well, cool! It's my start of git learning and I hope you will be there with me
 through the end. It's fun learning together, more than anything you learn better
@@ -23,12 +24,17 @@ through the end. It's fun learning together, more than anything you learn better
  Enough talk, let's get started!
 
 
+=======
+    My name is Guru, or Gru as i would like to be called but sadly no one doesn't call me that:).
+    I am a sophomore at IIT Bombay, a dendrophile(google that up!) and an ambivert.
+    Awkward-yes but you would like getting to know me, after all I love spreading geekiness around!
+>>>>>>> 003b5954bfe39207afb2c76084af0e8e3f1016b6
   #Write an awesome description for your new site here. You can edit this
   #line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
 baseurl: "Web2.0" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: (It is Necessary and sufficient to know that I am socially active :D)
 github_username:  Gurumnplove
 
 # Build settings
