@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Just random startings. Hey there! It seems that you have landed upon this zone.
+Well, cool! It's my start of git learning and I hope you will be there with me
+through the end. It's fun learning together, more than anything you learn better
+ and more when someone else is still facing the same problems as you do :)
+ Enough talk, let's get started!
+ 
+About me:
+My name is Guru, or Gru as i would like to be called but sadly no one doesn't call me that:).
+I am a sophomore at IIT Bombay, a dendrophile(google that up!) and an ambivert.
+Awkward-yes but you would like getting to know me, after all I love spreading geekiness around!
+    
