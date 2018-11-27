@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Stochastic Thoughts On Life
-email: your-gurukalyan1.618@gmail.com
+email: gurukalyan1.618@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 
   #Write an awesome description for your new site here. You can edit this
@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #  Google search results) and in your feed.xml site description.
 baseurl: "Web2.0" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: (It is Necessary and sufficient to know that I am socially active :D)
 github_username:  Gurumnplove
 
 # Build settings
