@@ -8,4 +8,4 @@ categories: jekyll update
 Hi all!
 Recently I took a course in Classical Mechanics and explored various cool things, one of which happens to be Betrand's theorem, which( Spoiler alert!) describes the type of central force and their associated orbits and much more.It'll be loads of fun learning about them.
 
-![My helpful screenshot]({{ https://gurumnplove.github.io/Web2.0/}}/assets/screenshot.jpeg)
+![My helpful screenshot](/assets/images/screenshot.jpeg)

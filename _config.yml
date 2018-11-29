@@ -24,10 +24,11 @@ github_username:  Guru Kalyan
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme
+remote_theme: "mmistakes/minimal-mistakes@4.14.1"
 plugins:
   - jekyll-feed
-
+  - jekyll-include-cache
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
