@@ -2,6 +2,7 @@
 layout: post
 title:  "Betrand's theorem and The mysterious universe"
 date:   2018-11-27 16:41:33 +0530
+image: quote.jpeg
 categories: jekyll update
 ---
 
