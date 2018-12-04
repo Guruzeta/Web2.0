@@ -7,4 +7,4 @@ categories: jekyll update
 ---
 
 Hi all!
-Recently I took a course in Classical Mechanics and explored various cool things, one of which happens to be Betrand's theorem, which( Spoiler alert!) describes the type of central force and their associated orbits and much more.It'll be loads of fun learning about them [this feeling][{{site.url}}/assets/images/quote.jpeg].
+Recently I took a course in Classical Mechanics and explored various cool things, one of which happens to be Betrand's theorem, which( Spoiler alert!) describes the type of central force and their associated orbits and much more.It'll be loads of fun learning about them [this feeling]({{site.url}}/assets/images/quote.jpeg).
