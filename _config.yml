@@ -23,7 +23,7 @@ baseurl: "Web2.0" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: (It is Necessary and sufficient to know that I am socially active :D)
 github_username: Guruzeta
-
+logo: favicon.ico
 # Build settings
 markdown: kramdown
 theme: minima
