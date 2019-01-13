@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hallelujah!!!"
+title:  "Jekyll n Hyde"
 date:   2018-11-27 16:41:33 +0530
 categories: jekyll update
 ---
