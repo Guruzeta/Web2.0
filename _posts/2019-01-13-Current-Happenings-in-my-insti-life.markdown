@@ -14,4 +14,4 @@ until that right match happens!
 So the undergrad me has been constantly challenged to respond to deadlines, much so
 that my productivity is kind of like this...
 
-![Stranger Things](https://imgur.com/a/pOabArd).
+![Stranger Things](https://i.imgur.com/yXmsM13.jpg).
