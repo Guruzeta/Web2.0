@@ -6,12 +6,10 @@ layout: default
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
-
-  {{
-    <div class="hero">
-      <img class="feature-img" src="{{ 'joker_anarchy.jpeg' | relative_url }}" />
-    </div>
-  }}
+  <div class="hero">
+    <img class="feature-img" src="{{ 'joker_anarchy.jpeg' | relative_url }}" />
+  </div>
+  {{content}}
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
