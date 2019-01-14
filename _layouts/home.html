@@ -6,12 +6,10 @@ layout: default
   {%- if page.title -%}
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
+
   <div class="hero">
-    <img class="feature-img" src="{{ 'wallpaper.jpg' | relative_url }}" />
+   {{ page.hero_text }}
   </div>
-  <div class="hero">
-  {{ page.hero_text }}
-</div>
 
   {{"Hey there!!!"}}
 
