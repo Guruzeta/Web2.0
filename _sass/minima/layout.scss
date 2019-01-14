@@ -252,9 +252,8 @@
       @include relative-font-size(1.125);
     }
   }
-}/* Cover Image */
-/*.hero {
-  .feature-img: {
-    max-width: 100%;
-  }
+}
+/* Cover Image */
+.hero {
+  background: url('/assets/home-feature.jpg');
 }

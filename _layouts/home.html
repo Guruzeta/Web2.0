@@ -7,9 +7,9 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
   <div class="hero">
-    <img class="feature-img" src="{{ 'wallpaper.jpg' | relative_url }}" />
+  {{ page.hero_text }}
   </div>
-  {{"Hey! There"}}
+  {{"Hey there!!!"}}
 
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
