@@ -7,8 +7,12 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
   <div class="hero">
-  {{ page.hero_text }}
+    <img class="feature-img" src="{{ 'wallpaper.jpg' | relative_url }}" />
   </div>
+  <div class="hero">
+  {{ page.hero_text }}
+</div>
+
   {{"Hey there!!!"}}
 
   {%- if site.posts.size > 0 -%}
