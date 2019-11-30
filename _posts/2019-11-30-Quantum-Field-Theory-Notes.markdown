@@ -5,7 +5,6 @@ date:   2019-11-29 16:41:33 +0530
 categories: Notes
 author: Guru Kalyan
 ---
-# Quantum Field Theory
 
 Recently I've ventured into quantum field theory over the course of a supervised learning.
 I've managed to cover topics such as Classical Field theory, Canonical Quantization and
