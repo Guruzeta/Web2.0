@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Chasing the asymptotics
+title: Making it Up as I Go!
 email: gurukalyan1.618@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-             Hey! I wanted to learn more about web development, programming,
+             Hey! I wanted to learn more about physics, web development
              and things in general. So, feel free to wonder around and take a look
              at what I am curious about!
 baseurl: "Web2.0"
