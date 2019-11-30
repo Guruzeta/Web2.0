@@ -3,6 +3,7 @@ layout: post
 title:  "Quantum Field Theory"
 date:   2019-11-29 16:41:33 +0530
 categories: Notes
+author: Guru Kalyan
 ---
 # Quantum Field Theory
 
