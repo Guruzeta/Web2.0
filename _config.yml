@@ -27,7 +27,7 @@ logo: favicon.ico
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
-remote_theme: Phlow/ feeling-responsive
+remote_theme: mmistakes/ minimal-mistakes
 #remote_theme: "mmistakes/minimal-mistakes@4.14.1"
 plugins:
   - jekyll-feed
